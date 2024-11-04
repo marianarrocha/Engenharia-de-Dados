@@ -1,0 +1,15 @@
+Projeto de Produtor e Consumidor no Databricks
+
+Este projeto tem como objetivo criar um produtor e um consumidor simples no Databricks, conforme as aulas do curso de Engenharia de Dados da Ada Tech.
+
+Estrutura do Projeto:
+
+1. Notebook 1: Configuração do Kafka e criação do Zookeeper.
+2. Notebook 2: Inicialização do servidor Kafka.
+3. Notebook 3: Criação do Kafka Topic.
+4. Notebook 4: Configuração do Produtor.
+5. Notebook 5: Configuração do Consumidor.
+
+Observações:
+- Foi utilizada a versão gratuita do Databricks Community Cloud.
+- O cluster utilizado foi o 12.2 LTS (includes Apache Spark 3.3.2, Scala 2.12).
