@@ -7,3 +7,8 @@ Projetos relacionados a engenharia de dados
 2. Tratamento de Dados
 3. Monitoramento de rotinas
 4. Salvamento em Parquet
+
+## Projeto Criação de Produtor e Consumidor simples no Databricks com Kafka
+### Competências:
+1. Databricks
+2. Kafka
