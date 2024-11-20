@@ -12,3 +12,9 @@ Projetos relacionados a engenharia de dados
 ### Competências:
 1. Databricks
 2. Kafka
+
+## Projeto Análise de Ações com SQL no DuckDB
+### Competências:
+1. SQL
+2. DuckDB
+3. Pyarrow
